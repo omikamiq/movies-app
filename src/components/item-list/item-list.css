@@ -1,0 +1,18 @@
+.item-list {
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5vh;
+  margin: 4vh auto 0 auto;
+}
+
+.spin {
+  display: block;
+  margin: 25vh auto 35vh auto;
+}
+
+.tip {
+  margin: 10vh auto 30vh auto;
+  font-size: 18px;
+}

@@ -1,0 +1,10 @@
+.page-toggle {
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.tabs {
+  display: block;
+  font-size: 16px;
+}

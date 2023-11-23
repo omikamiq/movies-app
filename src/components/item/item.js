@@ -2,7 +2,6 @@ import React from 'react';
 import { Rate } from 'antd';
 import { format, parseISO } from 'date-fns';
 
-import ErrorComponent from '../error_component/error-component';
 import Spiner from '../spiner/spiner';
 import MovieService from '../../services/movie-service';
 import { Consumer } from '../../services/movie-service-context/movie-service-context';
